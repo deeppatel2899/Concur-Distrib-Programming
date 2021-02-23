@@ -1,3 +1,8 @@
+/** 
+Author : Deepkumar Patel
+Parallel Matrix Multiplication using Java Threads
+
+**/
 import java.util.*;
 
 class MultiplyMatrix extends Thread {
